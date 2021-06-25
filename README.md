@@ -10,5 +10,5 @@ Setelah itu, anda dapat menjalankan file index.php, pastikan anda menjalankannya
 Untuk menjalankan multi download, anda dapat membuat sebuah file text di folder project ini, lalu diisi dengan URL zippyshare yang anda inginkan, *harap pisahkan antar URL dengan baris baru*.
 Lalu memasukkan nama file yang tadi anda buat di input URL pada saat menjalankan tools ini.
 
-file yang ter-download dari tools ini akan masuk ke folder downloads yang ada di folder project ini, semoga tools ini dapat membantu anda dengan maksimal!
+file yang ter-download akan masuk ke folder downloads yang ada di folder project ini, semoga tools ini dapat membantu anda dengan maksimal!
 
